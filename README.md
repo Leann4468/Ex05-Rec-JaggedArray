@@ -82,5 +82,6 @@ class jaggedarray
 
 
 ## Output:
+![1](https://github.com/Leann4468/Ex05-Rec-JaggedArray/assets/121165979/7e9b19f1-18ff-4a99-b9f0-9edd016627ad)
 
 ## Result:
