@@ -1,6 +1,8 @@
 # Ex05-Rec-JaggedArray
+
 ## Aim:
 To write a C# program to create a sample CPU usage on a network with 4 nodes using a jagged array.
+
 ## Algorithm:
 ### Step1:
 Create a new Class named cpu.
@@ -24,9 +26,9 @@ End the Program.
 
 
 ## Program:
-Leann Joby Mathew
+Developed by : Leann Joby Mathew
 
-212222230074
+Register number : 212222230074
 
 ```python
 using System;
@@ -85,3 +87,4 @@ class jaggedarray
 ![1](https://github.com/Leann4468/Ex05-Rec-JaggedArray/assets/121165979/7e9b19f1-18ff-4a99-b9f0-9edd016627ad)
 
 ## Result:
+C# program to create a sample CPU usage on a network with 4 nodes using a jagged array is executed successfully.
